@@ -1,11 +1,9 @@
-pyyaml
+PyYAML==3.11
 iso8601==0.1.4
 python-dateutil==1.5
-ipython
 lxml>=2.2
-pytz
-cssselect
+pytz==2014.2
+cssselect==0.9.1
 scrapelib==0.9.1
-mechanize
-BeautifulSoup4
-mock
+mechanize==0.2.5
+beautifulsoup4==4.3.2
